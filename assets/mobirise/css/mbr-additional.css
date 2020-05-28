@@ -2947,6 +2947,57 @@ section.lazy-placeholder:after {
 .cid-s068kFWemq .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-s0hqRyohZk {
+  background-image: url("../../../assets/images/deployment.jpeg");
+}
+.cid-s0hrnYyriT {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffbf00;
+}
+.cid-s0hrnYyriT h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s0hrnYyriT p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s0hrnYyriT .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s0hrnYyriT .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s0hrnYyriT .mbr-text {
+  color: #767676;
+}
+.cid-s0hrnYyriT .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s0hrnYyriT .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s0hrnYyriT .mbr-text,
+.cid-s0hrnYyriT .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s0hrnYyriT .card-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s0hrnYyriT .mbr-section-subtitle {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s0hrnYyriT H2 {
+  color: #ffffff;
+}
 .cid-s068oyXKFk .navbar {
   padding: .5rem 0;
   background: #333333;
