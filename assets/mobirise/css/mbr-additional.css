@@ -3432,6 +3432,112 @@ section.lazy-placeholder:after {
 .cid-s068oyXKFk .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-s0ioRUAzEp {
+  background-image: url("../../../assets/images/specialist.jpeg");
+}
+.cid-s0ioMPdLDw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f11b00;
+}
+.cid-s0ioMPdLDw h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s0ioMPdLDw p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s0ioMPdLDw .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s0ioMPdLDw .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s0ioMPdLDw .mbr-text {
+  color: #767676;
+}
+.cid-s0ioMPdLDw .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s0ioMPdLDw .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s0ioMPdLDw .mbr-text,
+.cid-s0ioMPdLDw .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s0ioMPdLDw .card-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s0ioMPdLDw .mbr-section-subtitle {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s0ioMPdLDw H2 {
+  color: #ffffff;
+}
+.cid-s0ioMPdLDw P {
+  color: #ffffff;
+}
+.cid-s0ioNglguv {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f11b00;
+}
+.cid-s0ioNglguv h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s0ioNglguv p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-s0ioNglguv .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s0ioNglguv .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s0ioNglguv .mbr-text {
+  color: #767676;
+}
+.cid-s0ioNglguv .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s0ioNglguv .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s0ioNglguv .mbr-text,
+.cid-s0ioNglguv .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s0ioNglguv .card-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s0ioNglguv .mbr-section-subtitle {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-s0ioNglguv H2 {
+  color: #ffffff;
+}
+.cid-s0ioNglguv P {
+  color: #ffffff;
+}
 .cid-s06eDLsvkG .navbar {
   padding: .5rem 0;
   background: #333333;
