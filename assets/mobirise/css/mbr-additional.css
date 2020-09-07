@@ -5767,6 +5767,49 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: center;
 }
+.cid-s9Ug7K43y0 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #fcee09;
+}
+.cid-s9Ug7K43y0 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s9Ug7K43y0 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-s9Ug7K43y0 .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s9Ug7K43y0 .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s9Ug7K43y0 .mbr-text {
+  color: #767676;
+}
+.cid-s9Ug7K43y0 .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s9Ug7K43y0 .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s9Ug7K43y0 .card-title {
+  color: #232323;
+  text-align: center;
+}
+.cid-s9Ug7K43y0 .mbr-text,
+.cid-s9Ug7K43y0 .mbr-section-btn {
+  color: #232323;
+  text-align: center;
+}
 .cid-s0iqvv3DVH {
   padding-top: 0px;
   padding-bottom: 90px;
